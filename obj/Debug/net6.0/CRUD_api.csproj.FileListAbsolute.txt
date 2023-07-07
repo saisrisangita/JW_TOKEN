@@ -85,3 +85,4 @@ C:\Users\SAILS-DM318\source\repos\CRUD_api\obj\Debug\net6.0\refint\CRUD_api.dll
 C:\Users\SAILS-DM318\source\repos\CRUD_api\obj\Debug\net6.0\CRUD_api.pdb
 C:\Users\SAILS-DM318\source\repos\CRUD_api\obj\Debug\net6.0\CRUD_api.genruntimeconfig.cache
 C:\Users\SAILS-DM318\source\repos\CRUD_api\obj\Debug\net6.0\ref\CRUD_api.dll
+C:\Users\SAILS-DM318\source\repos\CRUD_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

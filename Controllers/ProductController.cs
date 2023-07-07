@@ -1,5 +1,6 @@
 ﻿using CRUD_api.Controllers.Models;
 using CRUD_api.DAL;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq.Expressions;
@@ -16,6 +17,7 @@ namespace CRUD_api.Controllers
             _context = context;
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult Get()
         {
